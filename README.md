@@ -110,47 +110,6 @@ Project/
 │
 └── README.md
 ```
-
----
-
-## How to Run
-
-### Step 1: Clone the Repository
-
-```bash
-git clone <repository-link>
-```
-
-### Step 2: Install Required Libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn sqlalchemy pymysql
-```
-
-### Step 3: Run Python Analysis
-
-```bash
-jupyter notebook
-```
-
-Open and execute the notebooks for data cleaning and EDA.
-
-### Step 4: Load Data into MySQL
-
-* Create a MySQL database.
-* Import the cleaned dataset.
-* Execute the SQL scripts available in the SQL folder.
-
-### Step 5: Open Power BI Dashboard
-
-* Open the `.pbix` file in Power BI Desktop.
-* Refresh the data connection if required.
-
-### Step 6: Review Report and Presentation
-
-* Open the project report for detailed findings.
-* Review the presentation for a summary of insights and recommendations.
-
 ---
 
 ## Conclusion
